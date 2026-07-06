@@ -1,0 +1,17 @@
+# Build artifacts
+build/
+*.o
+*.out
+study_manager
+
+# Runtime-generated data — created automatically on first run
+# (never committed: contains your real marks + classmates' regnos/marks
+#  pasted from class results, which is other people's personal data)
+data/
+inbox/
+reports/
+
+# OS / editor junk
+.DS_Store
+.vscode/
+*.swp
