@@ -92,7 +92,7 @@ D ≥ -1.5 SD).
 
 This was built as a group project for CS102 OOP Lab.
 
-- Abdullah Sultan (2025049)
+- Abdullah Sultan
 - Muskan Sehar
 - Saad Fida
 - Musab Sial
